@@ -42,7 +42,7 @@ global.mess = {
     group: '*[هذا الامر في الرومات فقط]◣*',
     private: '*[هذا الامر في الخاص فقط]◣*',
     bot: '*[هذا الامر مخصص للبوت]◣*',
-    wait: '*[انتظر من فضلك]◣]*1',
+    wait: '*[انتظر من فضلك]◣*',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
